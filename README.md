@@ -16,3 +16,4 @@
    http://127.0.0.1:8000/api/recipes/difficulty/easy
 9. search recipes based on cooking time and available ingredients.
    http://127.0.0.1:8000/api/recipes/advanced-search?ingredients=egg&time=0-100
+10. DB attached in root folder
