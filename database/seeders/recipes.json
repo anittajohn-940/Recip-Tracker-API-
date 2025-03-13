@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": "spaghetti, eggs, pancetta, parmesan cheese, black pepper",
+        "prep_time": 10,
+        "cook_time": 15,
+        "difficulty": "medium",
+        "description": "Cook spaghetti until al dente, fry pancetta until crispy, mix eggs and cheese, then combine all with hot pasta."
+    },
+    {
+        "name": "Chicken Stir Fry",
+        "ingredients": "chicken breast, soy sauce, bell peppers, broccoli, rice",
+        "prep_time": 15,
+        "cook_time": 20,
+        "difficulty": "easy",
+        "description": "Sauté chicken in a wok, add vegetables and soy sauce, stir-fry until tender, serve over cooked rice."
+    },
+    {
+        "name": "Chocolate Lava Cake",
+        "ingredients": "dark chocolate, butter, sugar, eggs, flour",
+        "prep_time": 20,
+        "cook_time": 12,
+        "difficulty": "hard",
+        "description": "Melt chocolate and butter, mix with eggs, sugar, and flour, bake in ramekins until the edges are set but the center is gooey."
+    },
+    {
+        "name": "Vegetable Soup",
+        "ingredients": "carrots, celery, onion, tomatoes, vegetable broth",
+        "prep_time": 15,
+        "cook_time": 30,
+        "difficulty": "easy",
+        "description": "Chop vegetables, sauté onions, add broth and remaining veggies, simmer until tender."
+    },
+    {
+        "name": "Beef Lasagna",
+        "ingredients": "lasagna noodles, ground beef, ricotta cheese, mozzarella, tomato sauce",
+        "prep_time": 25,
+        "cook_time": 45,
+        "difficulty": "medium",
+        "description": "Cook beef with sauce, layer noodles with meat, ricotta, and mozzarella, bake until bubbly and golden."
+    },
+    {
+        "name": "Butter Chicken",
+        "ingredients": "chicken, butter, cream, tomato puree, garam masala",
+        "prep_time": 20,
+        "cook_time": 30,
+        "difficulty": "medium",
+        "description": "Marinate chicken, cook with spices, simmer in a creamy tomato sauce with butter until tender."
+    },
+    {
+        "name": "Margherita Pizza",
+        "ingredients": "pizza dough, tomato sauce, mozzarella, basil",
+        "prep_time": 20,
+        "cook_time": 15,
+        "difficulty": "medium",
+        "description": "Roll out dough, spread sauce, add cheese and basil, bake at high heat until crust is crispy."
+    },
+    {
+        "name": "Beef Tacos",
+        "ingredients": "ground beef, taco shells, lettuce, cheese, salsa",
+        "prep_time": 10,
+        "cook_time": 15,
+        "difficulty": "easy",
+        "description": "Brown beef with spices, warm taco shells, assemble with toppings."
+    },
+    {
+        "name": "Chicken Biryani",
+        "ingredients": "basmati rice, chicken, yogurt, saffron, biryani masala",
+        "prep_time": 30,
+        "cook_time": 45,
+        "difficulty": "hard",
+        "description": "Marinate chicken, partially cook rice, layer with spices and chicken, steam until fully cooked."
+    },
+    {
+        "name": "Banana Bread",
+        "ingredients": "bananas, flour, sugar, eggs, butter",
+        "prep_time": 15,
+        "cook_time": 60,
+        "difficulty": "easy",
+        "description": "Mash bananas, mix with wet and dry ingredients, bake in a loaf pan until golden."
+    },
+    {
+        "name": "Paneer Tikka",
+        "ingredients": "paneer, yogurt, bell peppers, tandoori masala, lemon",
+        "prep_time": 20,
+        "cook_time": 15,
+        "difficulty": "medium",
+        "description": "Marinate paneer and veggies in spiced yogurt, skewer and grill until charred."
+    },
+    {
+        "name": "French Onion Soup",
+        "ingredients": "onions, beef broth, bread, gruyere cheese",
+        "prep_time": 20,
+        "cook_time": 40,
+        "difficulty": "medium",
+        "description": "Caramelize onions, add broth, simmer, top with bread and cheese, broil until melted."
+    },
+    {
+        "name": "Dal Tadka",
+        "ingredients": "yellow lentils, tomatoes, garlic, cumin seeds, ghee",
+        "prep_time": 15,
+        "cook_time": 25,
+        "difficulty": "easy",
+        "description": "Boil lentils, prepare a tempering with ghee and spices, mix into lentils."
+    },
+    {
+        "name": "Pancakes",
+        "ingredients": "flour, milk, eggs, sugar, butter",
+        "prep_time": 10,
+        "cook_time": 15,
+        "difficulty": "easy",
+        "description": "Mix batter, pour onto a hot griddle, flip when bubbles form, cook until golden."
+    },
+    {
+        "name": "Aloo Gobi",
+        "ingredients": "potatoes, cauliflower, tomatoes, turmeric, cumin",
+        "prep_time": 15,
+        "cook_time": 25,
+        "difficulty": "medium",
+        "description": "Sauté spices, add potatoes and cauliflower, cook with tomatoes until tender."
+    },
+    {
+        "name": "Tiramisu",
+        "ingredients": "mascarpone, coffee, ladyfingers, cocoa powder, sugar",
+        "prep_time": 30,
+        "cook_time": 0,
+        "difficulty": "hard",
+        "description": "Dip ladyfingers in coffee, layer with mascarpone cream, chill and dust with cocoa."
+    },
+    {
+        "name": "Caesar Salad",
+        "ingredients": "romaine lettuce, croutons, parmesan, caesar dressing",
+        "prep_time": 15,
+        "cook_time": 0,
+        "difficulty": "easy",
+        "description": "Toss lettuce with dressing, top with croutons and shaved parmesan."
+    },
+    {
+        "name": "Roast Lamb",
+        "ingredients": "lamb leg, rosemary, garlic, olive oil, potatoes",
+        "prep_time": 20,
+        "cook_time": 90,
+        "difficulty": "medium",
+        "description": "Rub lamb with herbs and oil, roast with potatoes until tender and juicy."
+    },
+    {
+        "name": "Chana Masala",
+        "ingredients": "chickpeas, tomatoes, onion, garam masala, ginger",
+        "prep_time": 15,
+        "cook_time": 30,
+        "difficulty": "medium",
+        "description": "Cook chickpeas with a spiced tomato-onion gravy until flavors meld."
+    },
+    {
+        "name": "Croissants",
+        "ingredients": "flour, butter, yeast, sugar, milk",
+        "prep_time": 60,
+        "cook_time": 20,
+        "difficulty": "hard",
+        "description": "Layer dough with butter, roll and fold multiple times, shape, bake until flaky."
+    },
+    {
+        "name": "Egg Fried Rice",
+        "ingredients": "rice, eggs, soy sauce, peas, green onions",
+        "prep_time": 10,
+        "cook_time": 15,
+        "difficulty": "easy",
+        "description": "Scramble eggs, stir-fry with rice, veggies, and soy sauce."
+    },
+    {
+        "name": "Shrimp Scampi",
+        "ingredients": "shrimp, garlic, butter, lemon, pasta",
+        "prep_time": 15,
+        "cook_time": 15,
+        "difficulty": "medium",
+        "description": "Sauté shrimp with garlic and butter, add lemon, serve over pasta."
+    },
+    {
+        "name": "Naan Bread",
+        "ingredients": "flour, yeast, yogurt, garlic, ghee",
+        "prep_time": 20,
+        "cook_time": 10,
+        "difficulty": "medium",
+        "description": "Knead dough, let rise, roll out, cook on a hot skillet until puffed."
+    },
+    {
+        "name": "Guacamole",
+        "ingredients": "avocados, tomatoes, onion, lime, cilantro",
+        "prep_time": 10,
+        "cook_time": 0,
+        "difficulty": "easy",
+        "description": "Mash avocados, mix with chopped veggies and lime juice."
+    },
+    {
+        "name": "Beef Wellington",
+        "ingredients": "beef tenderloin, puff pastry, mushrooms, pate, shallots",
+        "prep_time": 40,
+        "cook_time": 45,
+        "difficulty": "hard",
+        "description": "Sear beef, wrap with mushroom duxelles and pastry, bake until golden."
+    },
+    {
+        "name": "Palak Paneer",
+        "ingredients": "spinach, paneer, cream, garlic, cumin",
+        "prep_time": 15,
+        "cook_time": 20,
+        "difficulty": "medium",
+        "description": "Blanch spinach, blend into a puree, cook with spices and paneer."
+    },
+    {
+        "name": "Omelette",
+        "ingredients": "eggs, milk, cheese, ham, peppers",
+        "prep_time": 5,
+        "cook_time": 10,
+        "difficulty": "easy",
+        "description": "Beat eggs, pour into a pan, add fillings, fold and cook until set."
+    },
+    {
+        "name": "Baked Ziti",
+        "ingredients": "ziti pasta, marinara sauce, ricotta, mozzarella",
+        "prep_time": 20,
+        "cook_time": 30,
+        "difficulty": "medium",
+        "description": "Cook pasta, mix with sauce and cheese, bake until bubbly."
+    },
+    {
+        "name": "Macarons",
+        "ingredients": "almond flour, sugar, egg whites, food coloring",
+        "prep_time": 45,
+        "cook_time": 15,
+        "difficulty": "hard",
+        "description": "Whip egg whites, fold in almond mixture, pipe and bake until crisp."
+    },
+    {
+        "name": "Fish Tacos",
+        "ingredients": "white fish, tortillas, cabbage, lime, salsa",
+        "prep_time": 15,
+        "cook_time": 15,
+        "difficulty": "easy",
+        "description": "Fry fish, assemble in tortillas with cabbage and salsa."
+    },
+    {
+        "name": "Rogan Josh",
+        "ingredients": "lamb, yogurt, tomatoes, cardamom, Kashmiri chili",
+        "prep_time": 20,
+        "cook_time": 60,
+        "difficulty": "medium",
+        "description": "Marinate lamb, slow-cook with spices and yogurt until tender."
+    },
+    {
+        "name": "Cheesecake",
+        "ingredients": "cream cheese, graham crackers, sugar, eggs, vanilla",
+        "prep_time": 20,
+        "cook_time": 60,
+        "difficulty": "medium",
+        "description": "Press crust, mix filling, bake in a water bath, chill before serving."
+    },
+    {
+        "name": "Spring Rolls",
+        "ingredients": "rice paper, shrimp, carrots, cucumber, mint",
+        "prep_time": 25,
+        "cook_time": 0,
+        "difficulty": "hard",
+        "description": "Soak rice paper, fill with ingredients, roll tightly."
+    },
+    {
+        "name": "BBQ Ribs",
+        "ingredients": "pork ribs, bbq sauce, brown sugar, garlic",
+        "prep_time": 20,
+        "cook_time": 120,
+        "difficulty": "medium",
+        "description": "Rub ribs with spices, slow-roast, brush with sauce and finish grilling."
+    },
+    {
+        "name": "Samosas",
+        "ingredients": "flour, potatoes, peas, lentils, spices",
+        "prep_time": 30,
+        "cook_time": 20,
+        "difficulty": "hard",
+        "description": "Make dough, fill with spiced potato mixture, fold and fry until crispy."
+    },
+    {
+        "name": "Quiche Lorraine",
+        "ingredients": "pie crust, eggs, bacon, cream, cheese",
+        "prep_time": 20,
+        "cook_time": 40,
+        "difficulty": "medium",
+        "description": "Pre-bake crust, mix eggs and cream, add bacon and cheese, bake until set."
+    },
+    {
+        "name": "Churros",
+        "ingredients": "flour, water, sugar, cinnamon, oil",
+        "prep_time": 15,
+        "cook_time": 15,
+        "difficulty": "hard",
+        "description": "Make dough, pipe into hot oil, fry, roll in cinnamon sugar."
+    },
+    {
+        "name": "Pesto Pasta",
+        "ingredients": "pasta, basil, pine nuts, parmesan, olive oil",
+        "prep_time": 10,
+        "cook_time": 15,
+        "difficulty": "easy",
+        "description": "Blend pesto, cook pasta, toss together."
+    },
+    {
+        "name": "Shepherd's Pie",
+        "ingredients": "ground lamb, potatoes, carrots, peas, gravy",
+        "prep_time": 20,
+        "cook_time": 40,
+        "difficulty": "medium",
+        "description": "Cook lamb with veggies, top with mashed potatoes, bake until golden."
+    },
+    {
+        "name": "Baklava",
+        "ingredients": "phyllo dough, walnuts, honey, butter, cinnamon",
+        "prep_time": 30,
+        "cook_time": 45,
+        "difficulty": "hard",
+        "description": "Layer phyllo with nuts, bake, pour honey syrup over top."
+    },
+    {
+        "name": "Caprese Salad",
+        "ingredients": "tomatoes, mozzarella, basil, balsamic vinegar",
+        "prep_time": 10,
+        "cook_time": 0,
+        "difficulty": "easy",
+        "description": "Slice tomatoes and cheese, layer with basil, drizzle with balsamic."
+    },
+    {
+        "name": "Pork Dumplings",
+        "ingredients": "pork, cabbage, wrappers, soy sauce, ginger",
+        "prep_time": 30,
+        "cook_time": 15,
+        "difficulty": "medium",
+        "description": "Mix filling, wrap in dough, steam or pan-fry until cooked."
+    },
+    {
+        "name": "Tandoori Chicken",
+        "ingredients": "chicken, yogurt, tandoori masala, lemon, garlic",
+        "prep_time": 20,
+        "cook_time": 25,
+        "difficulty": "medium",
+        "description": "Marinate chicken in spiced yogurt, grill until charred and juicy."
+    },
+    {
+        "name": "Sourdough Bread",
+        "ingredients": "flour, water, salt, sourdough starter",
+        "prep_time": 60,
+        "cook_time": 45,
+        "difficulty": "hard",
+        "description": "Mix dough, let rise, shape, bake until crusty."
+    },
+    {
+        "name": "Tuna Salad",
+        "ingredients": "tuna, mayonnaise, celery, onion, lemon",
+        "prep_time": 10,
+        "cook_time": 0,
+        "difficulty": "easy",
+        "description": "Mix tuna with mayo and veggies, season with lemon."
+    },
+    {
+        "name": "Saag Aloo",
+        "ingredients": "spinach, potatoes, onion, ginger, cumin",
+        "prep_time": 15,
+        "cook_time": 25,
+        "difficulty": "medium",
+        "description": "Cook potatoes, blend spinach with spices, combine and simmer."
+    },
+    {
+        "name": "Crepes",
+        "ingredients": "flour, milk, eggs, sugar, butter",
+        "prep_time": 10,
+        "cook_time": 20,
+        "difficulty": "medium",
+        "description": "Mix thin batter, pour into a hot pan, cook until golden, flip."
+    },
+    {
+        "name": "Vegetable Korma",
+        "ingredients": "mixed vegetables, coconut milk, cashews, curry paste",
+        "prep_time": 20,
+        "cook_time": 25,
+        "difficulty": "medium",
+        "description": "Sauté veggies, simmer in creamy coconut sauce with spices."
+    },
+    {
+        "name": "Hummus",
+        "ingredients": "chickpeas, tahini, garlic, lemon, olive oil",
+        "prep_time": 15,
+        "cook_time": 0,
+        "difficulty": "easy",
+        "description": "Blend chickpeas with tahini and seasonings until smooth."
+    },
+    {
+        "name": "Stuffed Peppers",
+        "ingredients": "bell peppers, ground beef, rice, tomato sauce, cheese",
+        "prep_time": 20,
+        "cook_time": 45,
+        "difficulty": "medium",
+        "description": "Hollow peppers, stuff with beef and rice, bake with sauce and cheese."
+    }
+]
